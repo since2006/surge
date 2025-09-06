@@ -5,5 +5,3 @@
 .idea
 .vscode
 
-# Private proxy config
-proxy.dconf
