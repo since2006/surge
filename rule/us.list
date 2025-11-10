@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,openai.com
 
 # Claude Code
 DOMAIN-SUFFIX,anthropic.com
+
+# Crypto
+DOMAIN-SUFFIX,okx.com
+DOMAIN-KEYWORD,.okx.com.
