@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,anthropic.com
 # Crypto
 DOMAIN-SUFFIX,okx.com
 DOMAIN-KEYWORD,.okx.com.
+
+# Gemini
+DOMAIN-SUFFIX,google.com
