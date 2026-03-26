@@ -13,3 +13,5 @@ DOMAIN-KEYWORD,.okx.com.
 
 # Gemini
 DOMAIN-SUFFIX,google.com
+# Stitch
+DOMAIN-SUFFIX,withgoogle.com
